@@ -65,17 +65,17 @@ The SIM800L module has an LED that indicates the status of your cellular network
 
 
 * **Blink every 1s:**
- * The chip is running but hasn’t made a connection to the cellular network yet.
+  * The chip is running but hasn’t made a connection to the cellular network yet.
 
 ![50](image/50.gif)
 
 * **Blink every 2s:**
- * The GPRS data connection you requested is active.
+  * The GPRS data connection you requested is active.
 
 ![51](image/51.gif)
 
 * **Blink every 3s:**
- * The module has made contact with the cellular network and can send/receive voice and SMS.
+  * The module has made contact with the cellular network and can send/receive voice and SMS.
 
 ![52](image/52.gif)
 
