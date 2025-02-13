@@ -80,3 +80,19 @@ The SIM800L module has an LED that indicates the status of your cellular network
 ![52](image/52.gif)
 
 
+**6. CHOOSING AN ANTENNA**
+
+The SIM800L module requires an external antenna in order to connect to the network, so choosing the right antenna is very important. There are two options available.
+
+The first is a helical antenna that comes with the module and can be soldered directly to the PCB. This antenna is very useful for space-constrained projects. However, be aware that you may face difficulties establishing a connection, particularly if your project is indoors.
+
+
+![9](image/9.jpg)
+
+
+Another option is a 3dBi GSM antenna with a U.FL to SMA adapter, which can be found online for less than $3. You can snap-fit this antenna into the small u.fl connector located on the top-left corner of the module. This type of antenna provides better performance and even allows your module to be placed inside a metal box as long as the antenna is outside.
+
+
+![10](image/10.jpg)
+
+
