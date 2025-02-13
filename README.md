@@ -14,4 +14,4 @@ GPRS, which stands for General Packet Radio Service. GPRS is an enhancement of t
 | ---------------------------------- | ----------------------                            | -------------- | 
 | Acronym                            | Global System for Mobile Communications           | General Packet Radio Service)  | 
 | Technology                         | Circuit-switched                        | Packet-switched  |
-| [T-Beam Meshtastic][3]             | ESP32-D0WDQ6-V3                         | 4MB(Quad-SPI)  | 
+  | Voice Communication              | Primary focus, supports voice calls and SMS                         | Secondary, supports voice but is optimized for data  | 
