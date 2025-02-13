@@ -1,5 +1,6 @@
 # SIM800L
 
+![6](images/6.jpg)
 
 **1. WHAT IS GSM?**
 
