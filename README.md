@@ -1,5 +1,6 @@
 # SIM800L
 
+
 **1. WHAT IS GSM?**
 
 GSM, which stands for Global System for Mobile, is a cellular standard primarily designed for mobile communication. GSM is a standard developed to facilitate communication between mobile devices. It's a digital cellular network technology that enables users to make calls, send texts, and access basic data services like SMS (Short Message Service) and MMS (Multimedia Messaging Service). GSM networks operate on various frequency bands globally, allowing mobile subscribers international roaming capabilities.
@@ -21,3 +22,5 @@ GPRS, which stands for General Packet Radio Service. GPRS is an enhancement of t
 | Billing                            | Billed based on usage (calls and SMS)                                | Billed based on data transferred, usually in kilobytes or megabytes            | 
 | Network Architecture               | Traditional cellular network with a voice-centric focus              | Overlay on GSM network, utilizing existing infrastructure for data services    |
 | Application                        | Voice calls, SMS, low-bandwidth data applications                    | Internet browsing, email, multimedia messaging, mobile apps, IoT connectivity  |
+
+
