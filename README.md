@@ -25,3 +25,16 @@ GPRS, which stands for General Packet Radio Service. GPRS is an enhancement of t
 | Application                        | Voice calls, SMS, low-bandwidth data applications                    | Internet browsing, email, multimedia messaging, mobile apps, IoT connectivity  |
 
 
+**3. HARDWARE OVERVIEW**
+
+At the heart of the module is a SIM800L GSM cellular chip from Simcom.
+
+The operating voltage of the chip ranges from 3.4V to 4.4V, making it an ideal candidate for direct LiPo battery supply. This makes it an excellent choice for embedding in projects with limited space.
+
+![7](image/7.jpg)
+
+All the necessary data pins of the SIM800L GSM chip are broken out to a 0.1″ pitch headers, including the pins required for communication with the microcontroller over the UART. The module supports baud rates ranging from 1200 bps to 115200 bps and features automatic baud rate detection.
+
+The module requires an external antenna in order to connect to the network. So the module usually comes with a helical antenna that can be soldered to it. The board also has a U.FL connector If you wish to keep the antenna at a distance from the board.
+
+![8](image/8.jpg)
