@@ -38,3 +38,28 @@ All the necessary data pins of the SIM800L GSM chip are broken out to a 0.1″ p
 The module requires an external antenna in order to connect to the network. So the module usually comes with a helical antenna that can be soldered to it. The board also has a U.FL connector If you wish to keep the antenna at a distance from the board.
 
 ![8](image/8.jpg)
+
+There’s a SIM socket on the back! Any 2G Micro SIM card will work perfectly. The proper way to insert the SIM card is typically engraved on the surface of the SIM socket.
+
+**4. FEATURE**
+
+Even though this module is incredibly small—only 1 square inch—it contains a surprising number of features. Some of them are as follows:
+
+* Supports Quad-band: GSM850, EGSM900, DCS1800 and PCS1900
+* Connect onto any global GSM network with any 2G SIM
+* Make and receive voice calls using an external 8Ω speaker & electret microphone
+* Send and receive SMS messages
+* Send and receive GPRS data (TCP/IP, HTTP, etc.)
+* Scan and receive FM radio broadcasts
+
+* **Transmit Power:**
+  * Class 4 (2W) for GSM850
+  * Class 1 (1W) for DCS1800
+* Serial-based AT Command Set
+* FL connectors for cell antennae
+* Accepts Micro SIM Card
+
+**5. LED STATUS INDICATORS**
+
+The SIM800L module has an LED that indicates the status of your cellular network. It will blink at different rates depending on the state it is in.
+
