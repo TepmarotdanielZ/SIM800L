@@ -9,3 +9,9 @@ GSM, which stands for Global System for Mobile, is a cellular standard primarily
 
 
 GPRS, which stands for General Packet Radio Service. GPRS is an enhancement of the GSM standard that enables mobile data transmission. It introduces packet-switched technology to GSM networks, allowing for faster data transfer rates compared to traditional circuit-switched methods. GPRS enables features like internet browsing, email access, and other data-intensive applications on mobile devices. It optimizes network resources by only using bandwidth when data is being transmitted, making it more efficient for data communication than its predecessor.
+
+| Feature                            | GSM                    | GPRS           |
+| ---------------------------------- | ---------------------- | -------------- | 
+| [T-Beam S3 Supreme L76K][1]        | ESP32-S3FN8            | 8MB(Quad-SPI)  | 
+| [T-Beam S3 Supreme Ublox][2]       | ESP32-S3FN8            | 8MB(Quad-SPI)  |
+| [T-Beam Meshtastic][3]             | ESP32-D0WDQ6-V3        | 4MB(Quad-SPI)  | 
