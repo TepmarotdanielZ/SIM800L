@@ -63,4 +63,8 @@ Even though this module is incredibly small—only 1 square inch—it contains a
 
 The SIM800L module has an LED that indicates the status of your cellular network. It will blink at different rates depending on the state it is in.
 
+
+**Blink every 1s:**
+* The chip is running but hasn’t made a connection to the cellular network yet.
+
 ![50](image/50.gif)
