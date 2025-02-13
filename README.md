@@ -14,4 +14,8 @@ GPRS, which stands for General Packet Radio Service. GPRS is an enhancement of t
 | ---------------------------------- | ----------------------                            | -------------- | 
 | Acronym                            | Global System for Mobile Communications           | General Packet Radio Service)  | 
 | Technology                         | Circuit-switched                        | Packet-switched  |
-  | Voice Communication              | Primary focus, supports voice calls and SMS                         | Secondary, supports voice but is optimized for data  | 
+| Voice Communication                | Primary focus, supports voice calls and SMS                         | Secondary, supports voice but is optimized for data  |
+| Data Transmission                 | Initially designed for voice, supports data with added functionality   | Optimized for data transmission  | 
+| Data Speed                         | Upto 9.6 kbps                          | Typically up to 114 kbps (2.5G), later enhancements offer higher speeds  | 
+| Connection Duration              | Always-on connection for voice calls                         | On-demand connection, data sessions initiated as needed  | 
+| Billing                            | Billed based on usage (calls and SMS)                         | Billed based on data transferred, usually in kilobytes or megabytes  | 
