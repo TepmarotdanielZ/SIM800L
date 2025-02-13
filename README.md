@@ -96,3 +96,14 @@ Another option is a 3dBi GSM antenna with a U.FL to SMA adapter, which can be fo
 ![10](image/10.jpg)
 
 
+**7. POWER CONSUMPTION**
+
+One of the most important parts of getting the SIM800L module working is supplying it with enough power.
+
+The SIM800L, depending on its state, can be a relatively power-hungry device. The module’s maximum current draw is around 2A (especially during a transmission burst). It won’t usually draw that much, but it may need around 216mA during phone calls or 80mA during network transmissions. This chart from the datasheet summarizes what you can expect:
+
+| Modes                              | Frequency                                                            | Current Consumption                                                                          |
+| ---------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------ | 
+| Acronym                            | Global System for Mobile Communications                              | General Packet Radio Service)                                                  | 
+
+
