@@ -12,6 +12,6 @@ GPRS, which stands for General Packet Radio Service. GPRS is an enhancement of t
 
 | Feature                            | GSM                    | GPRS           |
 | ---------------------------------- | ---------------------- | -------------- | 
-| [T-Beam S3 Supreme L76K][1]        | ESP32-S3FN8            | 8MB(Quad-SPI)  | 
+| Acronym                            | Global System for Mobile Communications           | General Packet Radio Service)  | 
 | [T-Beam S3 Supreme Ublox][2]       | ESP32-S3FN8            | 8MB(Quad-SPI)  |
 | [T-Beam Meshtastic][3]             | ESP32-D0WDQ6-V3        | 4MB(Quad-SPI)  | 
